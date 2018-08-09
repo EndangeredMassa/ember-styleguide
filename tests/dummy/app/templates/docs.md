@@ -10,6 +10,7 @@
     {{nav.item 'Button' 'docs.components.es-button'}}
     {{nav.item 'Buttonbar' 'docs.components.es-buttonbar'}}
     {{nav.item 'Card' 'docs.components.es-card'}}
+    {{nav.item 'CTA' 'docs.components.es-cta'}}
     {{nav.item 'Codesample' 'docs.components.es-codesample'}}
     {{nav.item 'Datatable' 'docs.components.es-datatable'}}
     {{nav.item 'Footer' 'docs.components.es-footer'}}

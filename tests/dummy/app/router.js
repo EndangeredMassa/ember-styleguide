@@ -27,6 +27,7 @@ Router.map(function() {
       this.route("es-button");
       this.route("es-buttonbar");
       this.route("es-card");
+      this.route("es-cta");
       this.route("es-codesample");
       this.route("es-datatable");
       this.route("es-footer");
