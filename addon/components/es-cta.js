@@ -7,4 +7,5 @@ export default Component.extend({
   classNames: ['es-cta'],
 
   label: null,
+  icon: 'info-circle',
 });
