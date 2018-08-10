@@ -1,0 +1,22 @@
+.es-cta {
+    display: flex;
+    flex-direction: row;
+
+    .message-container {
+        flex: 2;
+
+    }
+    .es-button {
+        flex: 1;
+    }
+
+    // @media screen and (max-width: 450px) {
+    //     flex-direction: column;
+
+    //     .message-container {
+    //         flex: 1;
+    
+    //     }
+        
+    // }
+}
